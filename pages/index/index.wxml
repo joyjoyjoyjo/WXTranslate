@@ -1,4 +1,14 @@
 <!--index.wxml-->
 <view class="container page-index">
-hello index
+  <view class='change'>
+  <navigator url='/pages/change/change' hover-class="navigator-hover">
+  <text>到{{curLang.chs}}</text>
+  <text class='iconfont icon-down'></text>
+  </navigator> 
+  </view>
+  <view class='input-area'></view>
+
+  <view class='copyright'></view>
+
+
 </view>
