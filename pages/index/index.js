@@ -5,7 +5,10 @@ Page({
    * 页面的初始数据
    */
   data: {
-
+    query:'',
+    hideClearIcon:true,
+    result:[],
+    curLang:{}
   },
 
   /**

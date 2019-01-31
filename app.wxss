@@ -1,0 +1,4 @@
+@import "./asset/iconfont/iconfont.wxss"
+.view-houver{
+  background-color: #f3f3f3!important;
+}

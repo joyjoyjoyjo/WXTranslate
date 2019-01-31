@@ -14,7 +14,7 @@
   },
   "tabBar": {
     "color": "#595959",
-    "selectedColor": "1c1b21",
+    "selectedColor": "#1c1b21",
     "backgroundColor": "#FBFAFB",
     "position": "top",
     "list": [
@@ -23,8 +23,8 @@
         "text": "翻译"
       },
       {
-        "pagePath": "pages/index/index",
-        "text": "歷史"
+        "pagePath": "pages/history/history",
+        "text": "历史"
       }
     ]
   }
