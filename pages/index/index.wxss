@@ -1,5 +1,4 @@
 /**index.wxss**/
-
 .change {
   color: #8995a1;
   font-size: 24rpx;

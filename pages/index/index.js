@@ -11,8 +11,7 @@ Page({
     curLang: {}
   },
   onLoad: function (options) {
-    console.log('lonload..')
-    console.log(options)
+    
     if (options.query) {
       this.setData({ query: options.query })
     }
