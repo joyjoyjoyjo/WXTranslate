@@ -1,15 +1,1 @@
-{
-  "pages": [
-    "pages/index/index",
-    "pages/change/change",
-    "pages/history/history"
-  ],
-  "window": {
-    "navigationBarBackgroundColor": "#ffffff",
-    "navigationBarTextStyle": "black",
-    "navigationBarTitleText": "了了翻译",
-    "backgroundColor": "#eeeeee",
-    "backgroundTextStyle": "light",
-    "enablePullDownRefresh": false
-  }
-}
+{}

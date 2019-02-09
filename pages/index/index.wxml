@@ -1,7 +1,4 @@
 <!--index.wxml-->
-
-
-
 <view class="container">
   <view class="change">
     <navigator url="/pages/change/change" hover-class="navigator-hover">
